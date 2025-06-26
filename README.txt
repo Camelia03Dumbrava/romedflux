@@ -1,14 +1,3 @@
-# ROMED FLUX - GESTIONAREA DIGITALĂ A MEDICAȚIEI CU REGIM SPECIAL
-
-Aceasta este o aplicație web PHP pentru gestionarea programărilor și gestionarea stocurilor de medicamente.
-
----
-
-## Cerințe sistem
-
-- [XAMPP](https://www.apachefriends.org/index.html) (cu Apache + MySQL)
-- PHP 8.0+ (inclus în XAMPP)
-- Browser (Chrome, Firefox etc.)
 
 ---
 
